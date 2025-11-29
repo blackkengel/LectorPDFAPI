@@ -6,6 +6,7 @@ from ask import router as ask_router
 app = FastAPI()
 origins = [
     "https://lector-pdfia-81a7qh1fg-blackkengels-projects.vercel.app",
+    "https://lector-pdfia-git-main-blackkengels-projects.vercel.app"
     "http://localhost:3000"
 ]
 
